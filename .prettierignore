@@ -1,0 +1,40 @@
+# Next.js specific
+.next/
+out/
+
+# Dependency directories
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Various log files
+*.log
+*.log.*
+
+# System files
+.DS_Store
+
+# IDE specific
+.idea/
+.vscode/
+
+# Ignore markdown files (optional, based on preference)
+*.md
+
+# Ignore all JSON files (optional, based on preference)
+*.json
+
+# Ignore image files (optional, based on preference)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
